@@ -34,6 +34,11 @@
             "name": "dag-music",
             "slug": "dag-music",
             "url": "https://www.youtube.com/@dag-music/live"
+        },
+        {
+            "name": "TGRT Haber",
+            "slug": "tgrthaber",
+            "url": "https://www.youtube.com/@tgrthaber/live"
         }
     ]
 }
