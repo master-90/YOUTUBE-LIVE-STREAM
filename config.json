@@ -39,6 +39,21 @@
             "name": "TGRT Haber",
             "slug": "tgrthaber",
             "url": "https://www.youtube.com/@tgrthaber/live"
+        },
+        {
+            "name": "TRT Haber",
+            "slug": "trthaber",
+            "url": "https://www.youtube.com/@trthaber/live"
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": "https://www.youtube.com/@tv100/live"        },
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": "https://www.youtube.com/@tv100/live"   
         }
     ]
 }
