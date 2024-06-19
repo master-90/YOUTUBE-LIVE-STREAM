@@ -49,6 +49,41 @@
             "name": "tv100",
             "slug": "tv100",
             "url": "https://www.youtube.com/@tv100/live"
+        },
+        {
+            "name": "ictimaitv",
+            "slug": "ictimai-tv",
+            "url": "https://www.youtube.com/@ictimaitvofficial/live"
+        },
+        {
+            "name": "eurostartv",
+            "slug": "eurostartv",
+            "url": "https://www.eurostartv.com.tr/canli-izle"
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": "/live"
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": ""
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": ""
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": ""
+        },
+        {
+            "name": "tv100",
+            "slug": "tv100",
+            "url": ""
         }
     ]
 }
