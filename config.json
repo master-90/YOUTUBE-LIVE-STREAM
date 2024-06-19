@@ -24,6 +24,11 @@
             "name": "Star tv",
             "slug": "startv",
             "url": "https://www.startv.com.tr/canli-yayin"
+        },
+        {
+            "name": "Show tv",
+            "slug": "showtv",
+            "url": "https://www.youtube.com/watch?v=ouuCjEjyKVI"
         }
     ]
 }
