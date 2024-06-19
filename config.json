@@ -28,7 +28,12 @@
         {
             "name": "Show tv",
             "slug": "showtv",
-            "url": "https://www.youtube.com/watch?v=ouuCjEjyKVI/live"
+            "url": "https://www.youtube.com/@showtv/live"
+        },
+        {
+            "name": "dag-music",
+            "slug": "dag-music",
+            "url": "https://www.youtube.com/@dag-music/live"
         }
     ]
 }
