@@ -23,12 +23,12 @@
         {
             "name": "Star tv",
             "slug": "startv",
-            "url": "https://www.youtube.com/watch?v=82O6yOy_XwE"
+            "url": "https://www.youtube.com/watch?v=82O6yOy_XwE/live"
         },
         {
             "name": "Show tv",
             "slug": "showtv",
-            "url": "https://www.youtube.com/watch?v=ouuCjEjyKVI"
+            "url": "https://www.youtube.com/watch?v=ouuCjEjyKVI/live"
         }
     ]
 }
