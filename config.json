@@ -61,9 +61,9 @@
             "url": "https://www.eurostartv.com.tr/canli-izle"
         },
         {
-            "name": "tv100",
-            "slug": "tv100",
-            "url": "/live"
+            "name": "CNN TÜRK",
+            "slug": "CNN TÜRK",
+            "url": "https://m.youtube.com/@cnnturk/live"
         },
         {
             "name": "tv100",
